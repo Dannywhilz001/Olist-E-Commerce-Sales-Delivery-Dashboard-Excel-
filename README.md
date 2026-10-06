@@ -178,7 +178,7 @@ Aspiring Business / Data Analyst based in Lagos, Nigeria
 
 - ![LinkedIn](https://www.linkedin.com/in/oladotun-olawale
 )
-- Email: oladotunolawale29yahoo.com
+- Email: oladotunolawale29@yahoo.com
 - ![Portfolio](https://github.com/Dannywhilz001
 )
 
