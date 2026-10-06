@@ -2,7 +2,7 @@
 
 An end-to-end business analysis of the Olist Brazilian E-Commerce dataset, built entirely in **Excel**. Seven raw CSV files were cleaned and merged with **Power Query**, analysed with **PivotTables**, and presented in an interactive, non-technical **dashboard** with KPI cards and slicers.
 
-![Dashboard preview](https://ibb.co/FLfVMFtq)
+![Dashboard preview](https://ibb.co/4Rpz6Lhk)
 
 ---
 
@@ -176,10 +176,8 @@ olist-excel-dashboard/
 **[Oladotun Olawale Daniel]**
 Aspiring Business / Data Analyst based in Lagos, Nigeria
 
-- ![LinkedIn](https://www.linkedin.com/in/oladotun-olawale
-)
+- ![LinkedIn](https://www.linkedin.com/in/oladotun-olawale)
 - Email: oladotunolawale29@yahoo.com
-- ![Portfolio](https://github.com/Dannywhilz001
-)
+- ![Portfolio](https://github.com/Dannywhilz001)
 
 If you found this project useful, please give it a star. ⭐
