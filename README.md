@@ -176,7 +176,7 @@ olist-excel-dashboard/
 **[Oladotun Olawale Daniel]**
 Aspiring Business / Data Analyst based in Lagos, Nigeria
 
-- ![LinkedIn](https://www.linkedin.com/in/oladotun-olawale)
+- ![LinkedIn](https://linkedin.com/in/oladotun-olawale)
 - Email: oladotunolawale29@yahoo.com
 - ![Portfolio](https://github.com/Dannywhilz001)
 
