@@ -2,7 +2,7 @@
 
 An end-to-end business analysis of the Olist Brazilian E-Commerce dataset, built entirely in **Excel**. Seven raw CSV files were cleaned and merged with **Power Query**, analysed with **PivotTables**, and presented in an interactive, non-technical **dashboard** with KPI cards and slicers.
 
-![Dashboard preview](./imagesdashboard.png)
+![Dashboard preview](https://i.ibb.co/3mc2DbgK/Sales-Data-Analysis-Dashboard.png)
 
 ---
 
