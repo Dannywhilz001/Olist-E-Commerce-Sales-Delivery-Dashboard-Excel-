@@ -167,8 +167,6 @@ olist-excel-dashboard/
 ├── Olist_Dashboard.xlsx
 ├── images/
 │   └── dashboard.png
-└── data/
-    └── (raw CSV files, or a link to Kaggle)
 ```
 
 ## About the Author
