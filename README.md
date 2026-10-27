@@ -171,7 +171,7 @@ olist-excel-dashboard/
 
 ## About the Author
 
-**[Oladotun Olawale Daniel]**
+**Oladotun Olawale Daniel**
 Aspiring Business / Data Analyst based in Lagos, Nigeria
 
 - [LinkedIn](https://www.linkedin.com/in/oladotun-olawale)
